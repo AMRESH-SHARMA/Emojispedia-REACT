@@ -1,0 +1,6 @@
+Fetch json array from emojipedia.js file.
+
+map() function substitute of "foreach":
+Passes a create entry fn inside map fn to iterate through emojispedia array
+
+It renders entry.jsx components after mapping unique key, emoji, name inside app.jsx file.
